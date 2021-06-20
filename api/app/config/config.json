@@ -1,0 +1,23 @@
+{
+  "development": {
+    "host": "localhost",
+    "username": "neutest",
+    "password": "1234",
+    "database": "neu_exam",
+    "dialect": "postgres"
+  },
+  "test": {
+    "host": "localhost",
+    "username": "neutest",
+    "password": "1234",
+    "database": "neu_exam",
+    "dialect": "postgres"
+  },
+  "production": {
+    "host": "localhost",
+    "username": "neutest",
+    "password": "1234",
+    "database": "neu_exam",
+    "dialect": "postgres"
+  }
+}
